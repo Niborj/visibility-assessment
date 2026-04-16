@@ -1,0 +1,26 @@
+node_modules/
+.DS_Store
+*.log
+
+# Local exports and working collateral that should not be published with the app
+*.pdf
+*.docx
+*.zip
+.nojekyll
+.github/workflows/pages.yml
+
+# Legacy collateral and one-off artifacts
+customer-one-pager.html
+customer-one-pager-print.html
+one-pager.html
+one-pager-print.html
+one-pager.css
+ai-you-build-workshop-cato-print.html
+ai-you-build-workshop-cato-v2-print.html
+partner_ai_for_users_playbook.html
+partner_ai_for_users_playbook.txt
+assets/playbook-ocr.md
+
+# Keep only the logo asset used by the app
+assets/playbook-media/*
+!assets/playbook-media/image1.png

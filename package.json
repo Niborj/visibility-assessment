@@ -1,0 +1,12 @@
+{
+  "name": "cato-ai-security-visibility-assessment",
+  "version": "1.0.0",
+  "description": "Local Cato AI Security visibility assessment dashboard for single-account executive reporting.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
