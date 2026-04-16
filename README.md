@@ -1,4 +1,4 @@
-# Cato AI Security Visibility Assessment
+# Visibility Assessment
 
 This is a local internal tool for running a one-account-at-a-time AI Security visibility assessment for Cato customers.
 
